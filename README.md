@@ -21,7 +21,7 @@ This project focuses on analyzing content available on Prime Video using Python 
 - **Google Colab** – for development and analysis
 ---
 
-## 📊 Key Questions Answered
+## Key Questions Answered
 
 1. **What are the most common genres on Prime?**  
    → Visualized top genres using bar charts.
@@ -41,7 +41,7 @@ This project focuses on analyzing content available on Prime Video using Python 
 
 ---
 
-## 📈 Sample Visuals
+## Sample Visuals
 
 - Bar charts for genres, ratings, and countries  
 - Line chart for release trends  
@@ -49,14 +49,14 @@ This project focuses on analyzing content available on Prime Video using Python 
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Data Source: [Kaggle:https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows]  
 - Columns: `show_id`, `type`, `title`, `director`,`cast`, etc.
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 - Cleaned and analyzed Prime Video content dataset  
 - Derived meaningful business and content insights  
